@@ -20,6 +20,26 @@ push
 3.push 
 
 
+git and github
+--------------
+
+git
+---
+vcm - version control system
+scm - software configuration management
+
+git operations
+---------------
+
+push  -  local repository to remote repository - uploading new project and changes
+clone -  remote repository to local repository - downloading exact copy of project
+pull  -  remote repository to local repository - downloading changes 
+
+push
+----
+1.add
+2.commit
+3.push 
 
 
 
